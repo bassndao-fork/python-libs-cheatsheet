@@ -2,6 +2,9 @@
 
 Cheatsheet to multiple Python libraries used in data mining, statistical analysis etc.
 
+## Cheatsheets
+- [pandas](pandas.ipynb)
+
 ## How to run Jupyter
 ```bash
 $> make build
