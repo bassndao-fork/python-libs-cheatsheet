@@ -4,7 +4,7 @@ Cheatsheet to multiple Python libraries and techniques used in data mining, stat
 
 ## List of Python Notebooks
 ### Libraries
-- [pandas](pandas.ipynb)
+- [pandas](notebooks/pandas.ipynb)
 
 ### Techniques
 - [K-Nearest Neighbors](notebooks/K-Nearest%20Neighbors.ipynb)
