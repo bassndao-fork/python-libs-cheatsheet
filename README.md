@@ -9,6 +9,7 @@ Cheatsheet to multiple Python libraries and techniques used in data mining, stat
 ### Techniques
 - [K-Nearest Neighbors](notebooks/K-Nearest%20Neighbors.ipynb)
 - [Linear Regression](notebooks/Linear%20Regression.ipynb)
+- [K-Means & DBSCAN Clustering](notebooks/K-Means%20&%20DBSCAN.ipynb)
 
 ## How to run Jupyter
 ```bash
